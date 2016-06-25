@@ -1,5 +1,5 @@
 
-<html dir="rtl" lang="ar">
+<html dir="rtl" lang="far">
 <head>
 <meta charset="utf-8">
 </head>
@@ -15,3 +15,4 @@
 <p>&nbsp;</p>
 
 </body>
+</html>
